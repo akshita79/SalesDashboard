@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard
+# 📊 Sales Dashboard - (Dynamic Dashboard)
 
 Welcome to the **Sales Dashboard** project! This dashboard provides insightful visualizations of sales data, focusing on key metrics such as the **Top 5 Customers**, **Sales by State**, and **Sales by Year**. It’s designed to help businesses understand their sales performance and make data-driven decisions.
 
